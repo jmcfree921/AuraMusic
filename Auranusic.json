@@ -1,0 +1,10 @@
+{
+  "app_status": "active",
+  "update": {
+    "latest_version": 2,
+    "required": true,
+    "title": "Bản cập nhật quan trọng (v2.0)",
+    "message": "Đã sửa các lỗi ở phiên bản cũ và cải thiện tốc độ ứng dụng. Vui lòng cập nhật ngay!",
+    "download_url": ""
+  }
+}
