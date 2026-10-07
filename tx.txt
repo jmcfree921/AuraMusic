@@ -7,14 +7,13 @@
   },
   "source2": {
     "name": "NEW LIVE",
-    "url": "https://vi.stripchats.io/girls/matched",
+    "url": "https://vi.stripchats.io/girls/vietnamese",
     "parse_mode": "extract_stream",
     "extractor": "chaturbate"
   },
    "source3": {
     "name": "NEW COUPLES",
-    "url": "https://vi.stripchats.io/girls/asian-young",
-    "extractor": "stripchat"
+    "url": "https://nangcuc01.com/"
   },
     "source4": {
     "name": "AI",
