@@ -1,23 +1,25 @@
 {
   "source1": {
     "name": "LIVE",
-    "url": "https://vi.stripchats.io/girls/recommended",
+    "url": "https://vi.stripchats.io/girls/vietnamese",
     "parse_mode": "extract_stream",
     "extractor": "stripchat"
   },
   "source2": {
     "name": "NEW LIVE",
-    "url": "https://vi.stripchats.io/girls/vietnamese",
+    "url": "https://chaturbate.com/asian-cams/female",
     "parse_mode": "extract_stream",
     "extractor": "chaturbate"
   },
    "source3": {
     "name": "NEW COUPLES",
-    "url": "https://nangcuc01.com/"
+    "url": "https://vi.stripchats.io/couples",
+    "parse_mode": "extract_stream",
+    "extractor": "stripchat"
   },
     "source4": {
     "name": "AI",
-    "url": "https://vlxx.phd/"
+    "url": "https://porn.ai"
   },
   "source5": {
     "name": "NEW VIDEO",
@@ -29,10 +31,10 @@
   },
     "source7": {
     "name": "JPN HD",
-    "url": "https://sextop1.land/"
+    "url": "https://javhd.one/phim-sex-khong-che"
   },
   "source8": {
     "name": "PRN HUB",
-    "url": "https://javhdz.la/"
+    "url": "https://de.pornhub.com"
   }
 }
